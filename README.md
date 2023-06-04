@@ -26,7 +26,7 @@ const distribution = [...numbers].sort(sortFunction);
 [conventional-commits-image]: https://img.shields.io/badge/Conventional_Commits-1.0.0-yellow.svg "The Conventional Commits specification"
 [conventional-commits-url]: https://www.conventionalcommits.org/en/v1.0.0/
 [dependencies-none-image]: https://img.shields.io/badge/dependencies-none-success.svg "No dependencies"
-[dependencies-none-url]: https://github.com/uid11/parse-statements/blob/main/package.json
+[dependencies-none-url]: https://github.com/uid11/distribution-of-random-uniform-sort-function/blob/main/package.json
 [license-image]: https://img.shields.io/badge/license-MIT-blue.svg "The MIT License"
 [license-url]: LICENSE
 [prettier-image]: https://img.shields.io/badge/code_style-prettier-ff69b4.svg "Prettier code formatter"
